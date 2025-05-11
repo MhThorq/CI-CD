@@ -26,4 +26,4 @@ jobs:
 
     - name: Run biodata program (non-interactive test)
       run: |
-        python BioMahasiswa1.py
+        python BioMahasiswa.py
