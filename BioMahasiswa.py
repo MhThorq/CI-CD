@@ -9,5 +9,5 @@ def tampilkan_biodata():
     print("Email         : andi@example.com")
     print("Alamat        : Jl. Merdeka No.10, Bandung")
 
- __name__ == "__main__":
+if __name__ == "__main__":
     tampilkan_biodata()
