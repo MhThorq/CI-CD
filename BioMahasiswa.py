@@ -2,7 +2,7 @@
 
 def tampilkan_biodata():
     print("=== BIODATA MAHASISWA ===")
-    print("Nama          : arung nih bos")
+    print("Nama          : Adam Huzaini")
     print("NIM           : 123456789")
     print("Program Studi : Teknik dempul")
     print("Fakultas      : Ilmu Komputer")
